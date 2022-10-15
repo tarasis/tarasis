@@ -29,7 +29,7 @@ Programming Languages: <br/>
 
 </p>
 
-Able to configure & maintain Linux servers; from Arch Linux to Ubuntu. Experience with packages such as Apache HTTPD, Caddy, NGINX, Procmail, Exim, Postfix, SpamAssassin, Rspamd, NextCloud, Gitea and many more.
+Able to configure & maintain Linux servers; from Arch Linux to Ubuntu. Experience with packages such as Apache HTTPD, Caddy, NGINX, Procmail, Exim, Postfix, SpamAssassin, Rspamd, NextCloud, Gitea, Jekyll, 11ty, Nunjucks and many more.
 
 ---
 
