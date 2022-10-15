@@ -67,7 +67,7 @@ I'm all over the place ...
 <img src="images/linkedin.svg" style='vertical-align:middle'> - [Robert McGovern](https://www.linkedin.com/in/robertmcgovern/)
 </p> -->
 
-##<details><summary>🤪 Parting Fun Facts ... 🤪</summary>
+<details><summary><h2>🤪 Parting Fun Facts ... 🤪</h2></summary>
 <p>
 
 ### Why **Tarasis**?
