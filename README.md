@@ -2,7 +2,7 @@
 <img src="images/purple_fedora.svg" width="300px" aria-hidden="true" alt="Purple Fedora" />
 </p>
 
-<h1 style="text-align:center">👋 Hello 👋</h1>
+<h1 align="middle">👋 Hello 👋</h1>
 
 I'm **Robert McGovern** _(he, him, they)_, a dabbler in code, occasional tech editor for articles & books, and long long ago a book writer.
 
