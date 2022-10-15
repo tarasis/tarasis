@@ -35,15 +35,17 @@ Able to configure & maintain Linux servers; from Arch Linux to Ubuntu. Experienc
 
 ## 🕰️ Short History 🕰️
 
-Once upon a time I was an embedded systems engineer working in C/C++ & Java (with some Ruby on the side), and admin for the companies Linux network. During this time I was tech editor for Eclipse in Action (Manning Publishing), before also becoming a writer on the book.
+Once upon a time I was an embedded systems engineer working in C, C++ & Java (with some Ruby on the side), and admin for the company's Linux network. During this time I was tech editor for the book **Eclipse in Action** (Manning Publishing), before also becoming a writer on the book.
 
-After 5 years I left that, and became a stay at home parent. In 2007 I got my first Mac, and started to learn Objective-C and Mac programming. Then the iPhone came along, and I started to learn iPhone development. Along the way I worked as technical editor and reviewer on a number of Mac and iPhone books.
+After 5 years I left and became a stay at home parent. In 2007 I got my first Mac, and started to learn Objective-C and Mac programming to keep my hand in.
 
-Throughout this time I have self hosted my website and email server amongst other things. I have also provided Linux support for others.
+Then the iPhone came along, and I started to learn iPhone development. Along the way I worked as technical editor and reviewer on a number of Mac and iPhone books.
 
-## Currently working on ...
+Throughout this time I self hosted my website & email server amongst other things. I've also provided Linux support for others.
 
-In 2021/2022 I've started to learn HTML, CSS and JavaScript programming. Mostly focused on completing [Frontend Mentor](https://www.frontendmentor.io/profile/tarasis) challenges.
+## 📚 Currently working on ... 📚
+
+In 2021/2022 I started to learn HTML, CSS and JavaScript programming. At the moment I am mostly focused on completing [Frontend Mentor](https://www.frontendmentor.io/profile/tarasis) challenges.
 
 I have two iPhone/iPadOS apps in progress. One is a Kaomoji keyboard & sticker generator in SwiftUI. The other for managing Twitter Lists.
 
@@ -51,9 +53,9 @@ I've just started [SoundpoolBrowser](https://github.com/tarasis/SoundpoolBrowser
 
 I'm updating my old [Quiet Unrar](https://github.com/tarasis/QuietUnrar) Mac project. Well I'm supposed to be :)
 
-I've begun learning Unity & C#.
+I've also begun learning Unity & C#.
 
-## Where to find me
+## 🗺️ Where to find me ... 🗺️
 
 I'm all over the place ...
 
@@ -65,19 +67,20 @@ I'm all over the place ...
 <img src="images/linkedin.svg" style='vertical-align:middle'> - [Robert McGovern](https://www.linkedin.com/in/robertmcgovern/)
 </p> -->
 
-## Parting Fun Facts ...
+##<details><summary>🤪 Parting Fun Facts ... 🤪</summary>
+<p>
 
 ### Why **Tarasis**?
 
 It was a D&D character name I made up for a bard thief back in 89/90 when I was 13 or 14. Years later I discovered that it was the original name of the Roman Emperor [Zeno](https://en.wikipedia.org/wiki/Zeno_(emperor)), that it was the [name](http://www.tarasiselectric.com) of an electric company in the United States of America and the [surname](https://en.wikipedia.org/wiki/Konstantinos_Tarasis) of a Greek footballer & manager.
 
-When I can't get `tarasis` as a username, then I use `duemoko`
+When I can't get `tarasis` as a username, then I use `duemoko`.
 
 ### Why a purple fedora?
 
-I love the colour purple, and I often wear a black fedora.
-
-## With thanks
+I love the colour purple, and I often wear a black fedora.</p>
+</details>
+## 😻 With thanks ... 😻
 
 The shields are from [Shunsuke Mano](https://github.com/progfay/shields-with-icon) & [Shields.io](https://shields.io/)
 
