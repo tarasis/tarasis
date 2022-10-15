@@ -80,6 +80,7 @@ When I can't get `tarasis` as a username, then I use `duemoko`.
 
 I love the colour purple, and I often wear a black fedora.</p>
 </details>
+
 ## 😻 With thanks ... 😻
 
 The shields are from [Shunsuke Mano](https://github.com/progfay/shields-with-icon) & [Shields.io](https://shields.io/)
